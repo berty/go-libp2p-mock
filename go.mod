@@ -1,4 +1,4 @@
-module berty.tech/go-libp2p-mock
+module github.com/berty/go-libp2p-mock
 
 go 1.19
 
